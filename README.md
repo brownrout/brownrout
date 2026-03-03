@@ -1,6 +1,7 @@
-### Hey, I'm Eric
-
-- 💻 I’m currently working on [Frigade](https://frigade.com) to help developers build better product onboarding
-- ⌛ I previously co-founded [Perform](https://joinperform.com) and worked at [Digit](https://digit.co) and [LinkedIn](https://linkedin.com)
-- 📫 You can get in touch with me on [LinkedIn](https://linkedin.com/in/ebrownrout)
-- 🏠 Check out my personal website at [brownrout.com](https://brownrout.com)
+ ### Hey, I'm Eric
+ 
+ Co-founder & CEO at [Frigade](https://frigade.com), where we're building AI agents that learn your product and guide users in real time.
+ 
+ Previously co-founded [Perform](https://joinperform.com) and worked at [Digit](https://digit.co) and [LinkedIn](https://linkedin.com).
+ 
+ [LinkedIn](https://linkedin.com/in/ebrownrout) · [brownrout.com](https://brownrout.com)
